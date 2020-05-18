@@ -25,7 +25,7 @@ SECRET_KEY = 'lnku$331kqtm=yqwm7k@k29#wo0!z3$^ugl3lewm0$y)l&n7#x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['linux2-test-1.eba-hnppkevz.ap-southeast-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['linux2-test-1.eba-hnppkevz.ap-southeast-2.elasticbeanstalk.com','127.0.0.1']
 
 
 # Application definition
